@@ -6,7 +6,7 @@
 |  1 | C 470nF X7R 16V (0805)                    | C2      | 1276-1199-1-ND             |
 |  2 | C 1uF X7R 16V (0805)                      | C3-C4   | 1276-6471-1-ND             |
 |  2 | DS LED (0805)                             | DS1-DS2 | 475-1415-1-ND              |
-|  1 | F 200 mA fast                             | F1      | 507-1811-1-ND              |
+|  1 | F 200 mA fast (0805)                      | F1      | 507-1811-1-ND              |
 |  1 | J JST XH Vertical (3w)                    | J1      | 455-2248-ND                |
 |  1 | P USB C, plug, straddle 0.8mm             | P1      | WM12855-ND                 |
 |  2 | R 1K 0.125W (0805)                        | R1-R2   | RMCF0805FT1K00CT-ND        |
