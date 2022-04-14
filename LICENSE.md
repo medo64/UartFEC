@@ -1,6 +1,6 @@
 ### The MIT License ###
 
-Copyright (c) 2020 Josip Medved <jmedved@jmedved.com>
+Copyright (c) 2022 Josip Medved <jmedved@jmedved.com>
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of
 this hardware, software, and associated documentation files (the "Product"), to
