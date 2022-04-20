@@ -10,11 +10,11 @@ Please note that this card is not using RS-232 but TTL (3.3V) voltage levels.
 
 ## UART Pinout
 
-| # | Ref | Description                     | Wire color |
-|--:|-----|---------------------------------|------------|
-| 1 | GND | Ground connection               | Black      |
-| 2 | RXD | Receive (TTL 3.3V)              | Yellow     |
-| 3 | TXD | Transmit (TTL 3.3V)             | Orange     |
+| # | Ref | Description                     |
+|--:|-----|---------------------------------|
+| 1 | RXD | Receive (TTL 3.3V)              |
+| 2 | GND | Ground connection               |
+| 3 | TXD | Transmit (TTL 3.3V)             |
 
 PS: Colors are just a suggestion and it's not necessary to have them match the
 table.
