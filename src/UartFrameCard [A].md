@@ -1,4 +1,4 @@
-### UartWork Parts
+### UART Framework Expansion Card Parts
 
 |  # | Part                                      | RefDes  | Preferred Part Number      |
 |---:|-------------------------------------------|---------|----------------------------|

@@ -1,5 +1,5 @@
-[UartWork](https://medo64.com/uartwork/)
-========================================
+[UART Framework Expansion Card](https://medo64.com/uartframecard/)
+==================================================================
 
 This Framework laptop expansion card will show up on your system as a serial
 device and allow for a non-isolated serial UART communication up to 115,200
