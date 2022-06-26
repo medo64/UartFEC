@@ -24,18 +24,18 @@ I2C bandwidth will be severly limited.
 | 4 | GND | Ground connection                          |
 | 5 | TXD | UART transmit (TTL 3.3V)                   |
 | 6 |  -  | Not connected                              |
-| 7 | V+  | Voltage output; DO NOT exceed 200 mA       |
+| 7 | V+  | Voltage output; DO NOT exceed 100 mA       |
 
 
 ## Wiring
 
-To connect to this board, one has to use a 3-pin JST XH connector. The following
+To connect to this board, one has to use a 7-pin JST XH connector. The following
 table represents the pinout, pin 1 being on the left as looking into the
 expansion card.
 
-As power consumption is way below 10 mA, wires can be almost any AWG. I would
-recommend using 24 AWG wire 0.25 mm² as they allow for greater compatibility
-with other connectors.
+As power consumption is way below 10 mA on signal lines and only up to 100 mA on
+power lines, wires can be almost any AWG. I would recommend using 24 AWG wire
+0.25 mm² as they allow for greater compatibility with other connectors.
 
 ---
 *You can check my blog and other projects at [www.medo64.com](https://www.medo64.com/electronics/).*
