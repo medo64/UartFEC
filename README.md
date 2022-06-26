@@ -16,11 +16,8 @@ Please note that this card is not using RS-232 but TTL (3.3V) voltage levels.
 | 2 | GND | Ground connection               |
 | 3 | TXD | Transmit (TTL 3.3V)             |
 
-PS: Colors are just a suggestion and it's not necessary to have them match the
-table.
 
-
-### Wiring
+## Wiring
 
 To connect to this board, one has to use a 3-pin JST XH connector. The following
 table represents the pinout, pin 1 being on the left as looking into the
