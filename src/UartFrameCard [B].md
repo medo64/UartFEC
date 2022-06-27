@@ -7,7 +7,7 @@
 |  1 | C 470nF X7R 16V (0805)                    | C3      | 1276-1199-1-ND             |
 |  2 | C 1uF X7R 16V (0805)                      | C4-C5   | 1276-6471-1-ND             |
 |  1 | C 10uF X5R 25V (0805) `I2C ONLY`          | C6      | 587-2985-1-ND              |
-|  1 | D Shottky 1A 40V (SMA) `I2C ONLY`         | D1      | SS14-LTPMSCT-ND            |
+|  1 | D Shottky 30V 800 mA (SOD323) `I2C ONLY`  | D1      | CUS08F30H3FCT-ND           |
 |  2 | DS LED (0805)                             | DS1-DS2 | 475-1415-1-ND              |
 |  1 | F 200 mA fast (0805)                      | F1      | 507-1811-1-ND              |
 |  1 | F 200 mA fast (0805) `I2C ONLY`           | F2      | 507-1811-1-ND              |
