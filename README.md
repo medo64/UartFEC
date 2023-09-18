@@ -2,7 +2,7 @@
 ==================================================================
 
 This Framework laptop expansion card will show up on your system as a serial
-device and allow for a non-isolated serial UART communication up to 115,200
+device and allow for a non-isolated serial UART communication up to 3Mbaud
 baud rate at 3.3V.
 
 Please note that this card is not using RS-232 but TTL (3.3V) voltage levels.
@@ -15,6 +15,10 @@ Please note that this card is not using RS-232 but TTL (3.3V) voltage levels.
 | 1 | RXD | Receive (TTL 3.3V)              |
 | 2 | GND | Ground connection               |
 | 3 | TXD | Transmit (TTL 3.3V)             |
+
+
+## Supported Speeds
+
 
 
 ## Wiring
