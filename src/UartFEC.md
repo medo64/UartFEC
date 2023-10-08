@@ -11,7 +11,7 @@
 |  1 | L Ferrite 600R@100Mhz                             | L1      | 240-2390-1-ND               |
 |  2 | R 1K 0.125W (0805)                                | R1-R2   | RMCF0805FT1K00CT-ND         |
 |  1 | R 5.1K 0.125W (0805)                              | R6      | RMCF0805FT5K10CT-ND         |
-|  1 | U Transciever Uart FT232R (SSOP-28)               | U1      | 768-FT232RNQ-REELCT-ND      |
+|  1 | U Transciever Uart FT232R (SSOP-28)               | U1      | 768-FT232RNL-TUBE-ND        |
 
 
 #### Board Size
