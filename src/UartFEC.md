@@ -25,10 +25,11 @@
 
 | Setting | Value  |
 |---------|--------|
-| CBUS0   | TXDEN  |
+| CBUS0   | TXLED# |
 | CBUS1   | RXLED# |
-| CBUS2   | TXLED# |
+| CBUS2   | TXDEN  |
 | CBUS3   | PWREN# |
+| CBUS4   | SLEEP# |
 
 
 #### Power
