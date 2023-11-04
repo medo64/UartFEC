@@ -36,7 +36,7 @@
       <RTS>false</RTS>
       <CTS>false</CTS>
       <DTR>false</DTR>
-      <DSR>false</DSR>
+      <DSR>true</DSR>
       <DCD>false</DCD>
       <RI>false</RI>
     </Invert_RS232_Signals>
