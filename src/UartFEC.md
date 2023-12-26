@@ -9,8 +9,9 @@
 |  2 | DS LED (0805)                                     | DS1-DS2 | 475-1415-1-ND               |
 |  1 | J JST XH Vertical (3w)                            | J1      | 455-2248-ND                 |
 |  1 | L Ferrite 600R@100Mhz                             | L1      | 240-2390-1-ND               |
-|  2 | R 1K 0.125W (0805)                                | R1-R2   | RMCF0805FT1K00CT-ND         |
-|  1 | R 5.1K 0.125W (0805)                              | R6      | RMCF0805FT5K10CT-ND         |
+|  3 | R 1K 0.125W (0805)                                | R1-R3   | RMCF0805FT1K00CT-ND         |
+|  1 | R 5.1K 0.125W (0805)                              | R4      | RMCF0805FT5K10CT-ND         |
+|  1 | R 5.1K 0.125W (0805)                              | R5      | RMCF0805FT10K0CT-ND         |
 |  1 | U Transciever Uart FT232R (SSOP-28)               | U1      | 768-FT232RNL-TUBE-ND        |
 
 

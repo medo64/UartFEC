@@ -15,7 +15,7 @@
       <SelfPowered>false</SelfPowered>
       <BusPowered>true</BusPowered>
     </bmAttributes>
-    <IOpullDown>false</IOpullDown>
+    <IOpullDown>true</IOpullDown>
     <MaxPower>42</MaxPower>
   </USB_Config_Descriptor>
   <USB_String_Descriptors>
