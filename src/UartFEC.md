@@ -7,13 +7,15 @@
 |  1 | C 4.7uF X5R 16V (0805)                            | C4      | 1276-1244-1-ND              |
 |  1 | D TVS 5V SM05T1G (SOT23-3)                        | D1      | SM05T1GOSCT-ND              |
 |  2 | DS LED (0805)                                     | DS1-DS2 | 475-1415-1-ND               |
-|  1 | J JST XH Vertical (3w)                            | J1      | 455-2248-ND                 |
+|  1 | J USB C, plug, straddle 0.8mm                     | J1      | WM12855-ND                  |
+|  1 | J JST XH Vertical (3w)                            | J2      | 455-2248-ND                 |
 |  1 | L Ferrite 600R@100Mhz                             | L1      | 240-2390-1-ND               |
 |  1 | Q P-MOSFET DMP3099L-13 (SOT23)                    | Q1      | DMP3099L-13DICT-ND          |
 |  3 | R 1K 0.125W (0805)                                | R1-R3   | RMCF0805FT1K00CT-ND         |
 |  1 | R 5.1K 0.125W (0805)                              | R4      | RMCF0805FT5K10CT-ND         |
 |  1 | R 5.1K 0.125W (0805)                              | R5      | RMCF0805FT10K0CT-ND         |
 |  1 | U Transciever Uart FT232R (SSOP-28)               | U1      | 768-FT232RNL-TUBE-ND        |
+|  2 | H Screw M2x3mm                            | -       | -                             |
 
 
 #### Board Size
