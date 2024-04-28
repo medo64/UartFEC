@@ -942,7 +942,7 @@
     (at 42.5 30.4 -90)
     (tags "CAPC2013X140N")
     (attr smd)
-    (fp_text reference "C5" (at 0 -1.6 90) (layer "F.SilkS") hide
+    (fp_text reference "C4" (at 0 -1.6 90) (layer "F.SilkS") hide
         (effects (font (size 0.8 0.6) (thickness 0.15) bold))
       (tstamp 88b36e17-e279-463b-b422-2682ccf49969)
     )
@@ -1077,7 +1077,7 @@
     (at 42.5 25.7 -90)
     (tags "CAPC2013X140N")
     (attr smd)
-    (fp_text reference "C4" (at 0 -1.6 90) (layer "F.SilkS") hide
+    (fp_text reference "C5" (at 0 -1.6 90) (layer "F.SilkS") hide
         (effects (font (size 0.8 0.6) (thickness 0.15) bold))
       (tstamp 061ffb28-67a3-4a35-888a-e5b2ba8b330a)
     )
